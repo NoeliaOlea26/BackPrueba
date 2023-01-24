@@ -1,6 +1,0 @@
-com\practica\SBoot1\model\Persona.class
-com\practica\SBoot1\Controller\Controller.class
-com\practica\SBoot1\SBoot1Application.class
-com\practica\SBoot1\service\IPersonaService.class
-com\practica\SBoot1\service\PersonaService.class
-com\practica\SBoot1\repository\PersonaRepository.class
